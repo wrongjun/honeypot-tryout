@@ -37,7 +37,42 @@ Login in to the mhn console with your username and password that you enter for t
 >wget ......
 I have deloy two honey pot. One is Ubuntu 14.04/Centos 7 - Dionaea and the other one is Ubuntu - Dionaea with HTTP.
 
+## Summery of the honey pot attacts
 
+Once i deloy the honey pot, there is a attack come in. 
+
+I had been deloy two honeypots around three hours. All the attack had been save in [session.json](session.json).
+
+In the first hour, Most of attack are from this three sites.
+
+  1.144.202.81.254 (25 attacks)
+  
+  2.138.68.229.208 (20 attacks)
+  
+  3.104.248.6.137 (17 attacks)
+  
+After a hour, two IP form the most attacks.
+
+  1.62.210.141.119 (40 attacks)
+  
+  2.122.114.180.183 (32 attacks)
+  
+  
+TOP 5 Attacked ports:
+
+  1.8088 (236 times)
+  
+  2.5060 (44 times)
+  
+  3.23 (37 times)
+  
+  4.3306 (32 times)
+  
+  5.445 (17 times)
+
+
+## Resources
+-MHN Sever(https://github.com/threatstream/mhn#installing-server-tested-ubuntu-12043-x86_64-and-centos-67)
 
 
 
