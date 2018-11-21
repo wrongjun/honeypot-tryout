@@ -41,7 +41,7 @@ I have deloy two honey pot. One is Ubuntu 14.04/Centos 7 - Dionaea and the other
 
 Once i deloy the honey pot, there is a attack come in. 
 
-I had been deloy two honeypots around three hours. All the attack had been save in [session.json](session.json).
+I had been deloy two honeypots around three hours. All the attack had been save in [session.json](https://github.com/wrongjun/honeypot-tryout/blob/master/session.json).
 
 In the first hour, Most of attack are from this three sites.
 
